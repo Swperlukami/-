@@ -1,0 +1,4 @@
+#ifndef USC4000_PROTOCOL_H
+#define USC4000_PROTOCOL_H
+
+#endif // USC4000_PROTOCOL_H
